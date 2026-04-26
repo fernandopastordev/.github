@@ -1,12 +1,15 @@
-## Hi there 👋
+![Fernando Pastor Dev](./fernandopastordev.png)
 
-<!--
+# Fernando Pastor Dev
 
-**Here are some ideas to get you started:**
+Repositorios del proyecto intermodular de 1.º DAW — IES Severo Ochoa, Elche.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## ReservasApp
+
+Aplicación de consola en Java para gestionar reservas de recursos (salas, equipos, etc.) sobre PostgreSQL, con acceso via JDBC.
+
+**Stack:** Java · Maven · PostgreSQL · JDBC · Docker
+
+→ [`bookings`](https://github.com/fernandopastordev/bookings) — código fuente, documentación y API REST propuesta.
